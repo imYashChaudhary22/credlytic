@@ -1,0 +1,35 @@
+====================
+[UPI DEBIT - HDFC]
+====================
+Sent Rs.6000.00
+From HDFC Bank A/C *8900
+To PRADEEP KUMAR SINGH
+On 22/12/25
+Ref 535623909634
+
+Sent Rs.950.00
+From HDFC Bank A/C *8900
+To SHOKENDER
+On 11/01/26
+Ref 601103893698
+
+====================
+[UPI CREDIT - HDFC]
+====================
+Received!
+INR 15,000.00 in HDFC Bank A/c XX8900
+On 23-01-26
+For IMPS -Yash Chaudhary- 602320049591
+
+====================
+[CARD DEBIT - AXIS]
+====================
+Spent INR 814
+Axis Bank Card no. XX1781
+06-02-26 19:41:27 IST
+BLINKIT
+
+Spent INR 1137
+Axis Bank Card no. XX1781
+06-02-26 19:05:26 IST
+PAY*WWW SWI
